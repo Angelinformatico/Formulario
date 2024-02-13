@@ -1,0 +1,16 @@
+.input_formulario{
+    height: 30px;
+    border-radius: 50px;
+}
+.boton{
+    background-color: aqua;
+    height: 30px;
+    color: blue;
+    border-radius: 20px;
+}
+.boton2{
+    background-color: blueviolet;
+    height: 30px;
+    color: rgb(255, 204, 0);
+    border-radius: 30px;
+}
